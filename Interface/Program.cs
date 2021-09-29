@@ -25,7 +25,6 @@ namespace Interface
             {
                 notifications[i].DoNotify();
             }
-
         }
     }
 }
